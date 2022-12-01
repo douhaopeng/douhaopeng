@@ -13,11 +13,11 @@
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=douhaopeng&theme=vue)
 
 
-[![douhaopeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![douhaopeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douhaopeng)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/douhaopeng/github-readme-stats)
+[![douhaopeng's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=douhaopeng)](https://github.com/douhaopeng/github-readme-stats)
 
 
 
