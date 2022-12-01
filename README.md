@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
-👋 Hi, I’m @douhaopeng
-📫 How to reach me 1591994251@qq.com or douhaopengheber@gmail.com
+- 👋 Hi, I’m @douhaopeng
+- 📫 How to reach me 1591994251@qq.com or douhaopengheber@gmail.com
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douhaopeng&count_private=true&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng&count_private=true)
 
@@ -13,7 +13,7 @@
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=douhaopeng&theme=vue)
 
 
-[![douhaopeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng)](https://github.com/anuraghazra/github-readme-stats)
+[![douhaopeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douhaopeng)](https://github.com/anuraghazra/github-readme-stats)
 
