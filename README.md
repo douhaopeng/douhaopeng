@@ -5,14 +5,14 @@
 - 📫 How to reach me ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&show_icons=true)]
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng&count_private=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douhaopeng&show_icons=true) -->
 
 <!---
 douhaopeng/douhaopeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
